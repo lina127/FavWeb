@@ -12,10 +12,7 @@
 * Enhanced code security and data security; </br>
               * filter user input - avoid run-time errors </br>
               * PDO - avoid injection attacks</br>
-              * use POST method
-
-
-</br>
+              * use POST method </br>
 ## Feature  </br>
 * Add website with URL and website name. </br>
 * One click access to user's favorite website. </br>
