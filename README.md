@@ -9,8 +9,8 @@
 * Full stack web app from register to data management.</br>
 * Session starts as user logs in. </br>
 * Passwords are automatically hashed and stores hashed passwords.</br>
- Markup : * Enhanced code security and data security; </br>
-              * filter user input; avoid run-time errors </br>
+* Enhanced code security and data security; </br>
+             *  filter user input; avoid run-time errors </br>
               * PDO - avoid injection attacks</br>
               * use POST method
 
