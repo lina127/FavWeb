@@ -10,9 +10,9 @@
 * Session starts as user logs in. </br>
 * Passwords are automatically hashed and stores hashed passwords.</br>
 * Enhanced code security and data security; </br>
- ** &nbsp; filter user input; avoid run-time errors </br>
-** &nbsp; PDO - avoid injection attacks</br>
-** &nbsp; use POST method
+ * filter user input; avoid run-time errors </br>
+ &nbsp; PDO - avoid injection attacks</br>
+ &nbsp; use POST method
 
 </br>
 ## Feature
