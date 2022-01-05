@@ -17,11 +17,10 @@
 
 </br>
 ## Feature  </br>
-* Add website.
-* One click access to user's favorite website.
-* Track most clicked website and order the list base on that.
-* View current cows, sold cows and dead cows by filtering the data table.
-* Flexible data handling. Easy create, edit and delete.
+* Add website with URL and website name.
+* One click access to user's favorite website. </br>
+* Track most clicked website and order the list base on that. </br> 
+* Flexible data handling. Easy create, edit and delete. </br>
 
 ## UI
 <p style="float-left">
