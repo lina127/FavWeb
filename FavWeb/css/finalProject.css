@@ -1,0 +1,38 @@
+/**I, Yehyun Kim, 000848388 certify that this material is my original 
+ * work. No other person's work has been used without due acknowledgement.
+ * Date: Dec.9.2021
+ * This finalProject.css is used to design the pages. It is used for the whole project page.
+ */
+
+.logo{
+    font-family: "Lucida Console", "Courier New", monospace !important;
+    color: blue !important;
+    border-bottom: 2px solid rgb(111, 111, 192);
+    margin-top: 50px !important;
+    margin-bottom: 10px;
+    
+}
+
+body{
+    width: 70%;
+    margin-left: 15%;
+}
+#currentUser{
+    color: black;
+    font-size: 15px;
+}
+
+#newForm{
+    width: 50%;
+    border: 2px dotted rgb(137, 103, 156);
+    padding: 10px;
+    margin-top: 10px;
+    display: none;
+}
+
+.logout{
+    border-bottom: 2px solid rgb(111, 111, 192);
+    margin-top: 50px !important;
+    margin-bottom: 10px;
+    float: right;
+}
