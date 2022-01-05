@@ -9,8 +9,10 @@
 Full stack web app from register to data management.
 Session starts as user logs in. 
 Passwords are automatically hashed and stores hashed passwords.
-Enhanced code security and data security
- &nbsp; filter user input; avoid run-time errors, PDO; avoid injection attacks, use POST method...etc)
+Enhanced code security and data security </br>
+ &nbsp; filter user input; avoid run-time errors </br>
+ &nbsp; PDO - avoid injection attacks</br>
+ &nbsp; use POST method
 
 </br>
 ## Feature
