@@ -24,12 +24,12 @@
 <table><tr><td>
 <img src="https://user-images.githubusercontent.com/89232984/148169873-f99b1826-3554-4241-bef1-7141673a64e4.png" width="50%" height="50%" border="1px solid blue"/>
 </td></tr></table>
-<kbd>
+<table><tr><td>
 <img src="https://user-images.githubusercontent.com/89232984/148170689-1a0f482c-7289-4afa-bdd9-c9e582f1ffa3.png" width="50%" height="50%" /> 
-      </kbd>
-      <kbd>
+      </td></tr></table>
+      <table><tr><td>
  <img src="https://user-images.githubusercontent.com/89232984/148170782-17a82ec7-e54d-407c-95ce-a70374b61703.png" width="50%" height="50%"/> 
-        </kbd>
+        </td></tr></table>
  </p>
 
 
