@@ -10,27 +10,25 @@
 * Session starts as user logs in. </br>
 * Passwords are automatically hashed and stores hashed passwords.</br>
 * Enhanced code security and data security; </br>
-             *  filter user input; avoid run-time errors </br>
+              * filter user input - avoid run-time errors </br>
               * PDO - avoid injection attacks</br>
               * use POST method
 
 
 </br>
 ## Feature
-* Easily compare each cow's specification and quality.
-* Know the timing of pregnancy, predictable birth date for pregnant cows at a glance.
+* Add website.
+* One click access to user's favorite website.
+* Track most clicked website and order the list base on that.
 * View current cows, sold cows and dead cows by filtering the data table.
 * Flexible data handling. Easy create, edit and delete.
 ## UI
 <p style="float-left">
-<img src="https://user-images.githubusercontent.com/89232984/147863359-13ee01fd-7216-4c77-b5f1-e51c16a61b0e.png" width="30%" height="30%" />
-<img src="https://user-images.githubusercontent.com/89232984/147863394-4eb6a9ae-f68e-4bcf-ba19-c1e122efd73a.png" width="30%" height="30%" />      
- <img src="https://user-images.githubusercontent.com/89232984/147863399-39d1a603-297c-412f-9adc-0b23bb5dcf18.png" width="30%" height="30%" />    
- <img src="https://user-images.githubusercontent.com/89232984/147863402-6cb7cfd5-b724-4e9f-a35c-b1589601bc8e.png" width="30%" height="30%" />
- <img src="https://user-images.githubusercontent.com/89232984/147863446-f4943b9d-46e7-4037-bc0d-62266f189ce2.png" width="30%" height="30%" />
+<img src="https://user-images.githubusercontent.com/89232984/148169873-f99b1826-3554-4241-bef1-7141673a64e4.png" width="50%" height="50%" />
+<img src="https://user-images.githubusercontent.com/89232984/148170689-1a0f482c-7289-4afa-bdd9-c9e582f1ffa3.png" width="50%" height="50%" />      
+ <img src="https://user-images.githubusercontent.com/89232984/148170782-17a82ec7-e54d-407c-95ce-a70374b61703.png" width="50%" height="50%"/> 
  </p>
 
-* Bullet list
-              * Nested bullet
+
 
 
