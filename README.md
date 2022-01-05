@@ -21,7 +21,7 @@
 
 ## UI
 <p style="float-left">
-  <kbd>
+  <kbd width="50%">
 <img src="https://user-images.githubusercontent.com/89232984/148169873-f99b1826-3554-4241-bef1-7141673a64e4.png" width="50%" height="50%" />
     </kbd>
     <kbd>
